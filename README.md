@@ -1,7 +1,6 @@
-# pankaj
+# documentry
 my first git reposititory
 <dr>
-co-founder:pankaj kumar naik
 
 #sum of two numbers in java
 Java language
