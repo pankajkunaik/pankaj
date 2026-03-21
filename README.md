@@ -3,6 +3,8 @@ my first git reposititory
 <dr>
 co-founder:pankaj kumar naik
 
+#sum of two numbers in java
+
 public class AdditionExample {
     public static void main(String[] args) {
         int a = 10;
