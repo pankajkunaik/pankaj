@@ -2,7 +2,7 @@
 my first git reposititory
 <dr>
 
-#sum of two numbers in java
+#sum of two numbers in java language
 Java language
 
 public class AdditionExample {
